@@ -1,0 +1,15 @@
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\bin\Debug\net8.0\MiniJuegoVSCP.exe
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\bin\Debug\net8.0\MiniJuegoVSCP.deps.json
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\bin\Debug\net8.0\MiniJuegoVSCP.runtimeconfig.json
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\bin\Debug\net8.0\MiniJuegoVSCP.dll
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\bin\Debug\net8.0\MiniJuegoVSCP.pdb
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\MiniJuegoVSCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\MiniJuegoVSCP.AssemblyInfoInputs.cache
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\MiniJuegoVSCP.AssemblyInfo.cs
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\MiniJuegoVSCP.csproj.CoreCompileInputs.cache
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\MiniJuegoVSCP.sourcelink.json
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\MiniJuegoVSCP.dll
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\refint\MiniJuegoVSCP.dll
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\MiniJuegoVSCP.pdb
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\MiniJuegoVSCP.genruntimeconfig.cache
+E:\Rafael\Documentos\GitHub\MiniJuegoVSCP\obj\Debug\net8.0\ref\MiniJuegoVSCP.dll
